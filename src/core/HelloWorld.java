@@ -13,12 +13,16 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 	}
 	
+	public static int somethingNew(int a, int b) {
+		return a+b;
+	}
 	public static void main(String[] args) {
 		//instantiate the hello world object
 		HelloWorld hwObject = new HelloWorld();
 		
 		//call the print hello world method
 		hwObject.printHelloWorld();
+		System.out.println(somethingNew(4,5));
 	}
 
 }

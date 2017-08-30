@@ -1,5 +1,6 @@
 package core;
 
+//testing Git
 public class HelloWorld {
 
 	public HelloWorld() {

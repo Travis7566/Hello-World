@@ -19,6 +19,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Wolrd, Hello.");
 		System.out.println("Something new here");
+		System.out.println("Something newer here");
 	}
 	
 	public static int somethingNew(int a, int b) {

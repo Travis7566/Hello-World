@@ -5,6 +5,7 @@ package core;
 //here's another change for test branch
 //adding something else to the code
 //added something here
+
 public class HelloWorld {
 
 	public HelloWorld() {
@@ -17,6 +18,7 @@ public class HelloWorld {
 	public void printHelloWorld() {
 		System.out.println("Hello World!");
 		System.out.println("Wolrd, Hello.");
+		System.out.println("Something new here");
 	}
 	
 	public static int somethingNew(int a, int b) {
